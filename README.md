@@ -9,9 +9,9 @@ A creative hands-on motivated software engineer with experience in computer visi
 * 🌍  I'm based in Boston, MA, USA
 * 🖥️  See my portfolio at [aadhyap.github.io](http://aadhyap.github.io/)
 * ✉️  You can contact me at [putturaadhya@gmail.com](mailto:putturaadhya@gmail.com)
-* 🚀  I'm currently working on [Creating a Full-Stack App that will be revealed this week!]()
+* 🚀  I'm currently working on [Creating a Full-Stack Audio App that will be revealed this week!]() 
 * 🧠  I'm learning Language Learning Models, React, Three.js
-* 🤝  I'm open to collaborating on 3D animation projects and awesome projects :)
+* 🤝  I'm open to collaborating on Audio, Music, 3D animation projects and awesome projects :)
 * ⚡  I am also a choreographer and dancer ... let me know if you need one for your music video 💃🏽
 
 ### Skills

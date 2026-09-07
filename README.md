@@ -6,7 +6,8 @@ Software Engineer
 
 A creative hands-on motivated software engineer with experience in computer vision and prototyping applications, aspiring to excel in being a full-stack software engineer. With a proven record of leadership within agile teams, I thrive on transforming ideas into compelling and intuitive user experiences. Looking for a role where I can grow and learn from experienced team members.
 
-* 🌍  I'm based in Boston, MA, USA
+* 🌍  I'm based in Orange County, CA, USA
+* 👾 see my published games on https://onian.itch.io/
 * 🖥️  See my portfolio at [aadhyap.github.io](http://aadhyap.github.io/)
 * ✉️  You can contact me at [aputtur@outlook.com](mailto:aputtur@outlook.com)
 () 

@@ -3,7 +3,7 @@ Hi 👋 My name is Aadhya Puttur
 
 Software Engineer / Game Developer
 -----------------
-I am a full-stack engineer, build a 3 apps, have professional work with drones and multi-sensor systems, and I build games for fun. I compete in game jams and have consistently been placing in the top 1% or 10%. I am a solo developer for all things games from thousands of submissions. I love every part of creating a game from story, art, programming, music, and animation. Just enjoying the process and learning as I go! 
+I am a full-stack engineer, built 5 apps, have professional work with drones and multi-sensor systems, and I build games for fun. I compete in game jams and have consistently been placing in the top 1% or 10%. I am a solo developer for all things games from thousands of submissions. I love every part of creating a game from story, art, programming, music, and animation. Just enjoying the process and learning as I go! 
 
 
 * 🌍  I'm based in Orange County, CA, USA
